@@ -1,7 +1,7 @@
 # ML-Project1
-This is  machine learning project
+This is  a machine-learning project
 
-### Software and account Requirement.
+### Software and account Requirements.
 
 1. [Github Account](https://github.com)
 2. [Heroku Account](https://dashboard.heroku.com/login)
